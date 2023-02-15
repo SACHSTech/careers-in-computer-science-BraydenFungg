@@ -116,3 +116,15 @@ Some online cources can be found below:
 1. [Codecademy](https://www.codecademy.com/)
 2. [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 3. [MIT OpenCourseware](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum )
+
+---
+
+<br>
+
+## Real Jobs
+Finding a job with the desired salary, close proximity, and job description that appeals to you can be hard. However, I have compiled a table of poential jobs depending on your experience.
+| Level of Experience | Responsibilities | Requirements | Salary |
+| ------------- |:-------------:| -----:|-------:|
+| Entry level (0-2 years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Prepare mock-ups and storyboards. <br> 3. Develop Website architecture and determine hardware and software requirements <br> 4. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 5. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 6. Consult with clients to develop and document Websites | Requires fluent english and a bachelor’s degree |31.50 hourly for 35 hours a week|
+| Mid level (3-5 years experience) | 1. Consult with clients to document and develop website requirements <br> 2. Design websites that organize information in an efficient manner <br> 3. Manage appearance, layout and flow of the website <br> 4. Research and evaluate a variety of interactive media software products | 1. Knowledge in many coding languages including JavaOS, HTML, javascript, css,.net, and C# <br> 2. Require fluent english and a bachelor's degree | 35.00 hourly for 40 hours per week |
+| Senior level (5+ years experience) | are neat      |    $1 |2|
