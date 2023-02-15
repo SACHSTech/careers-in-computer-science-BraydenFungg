@@ -68,5 +68,17 @@ The good news about being a web developer is that degrees, certifications, and d
 ## Standard Education
 Although getting a degree, diploma, or certificate is not necessary to get into the web development job field, there are still many universities and colleges that offer programs that will help you hone your coding skills. One of the many schools is CDI College, a canadian college that has many campuses located in Ontario. This web development program takes place on campus, takes around 42 weeks to complete, and successful graduates will recieve a diploma. To apply, you must either have a high school diploma or be a mature student and pass the entrance exam. There are no academic average requirements or any course prerequisites.
 
+<br>
+
 ### Potential Year One Programs
 
+1. Programming Logic and Design
+    - Provide students with an understand of programming principles and methodologies to foster the development of programing techniques
+    - Master terminology and logic behind how code works without focusing on the programing langue itself
+2. Object Oriented programming
+    - Fundamental concepts and techniques of object-oriented programming using java
+    - Understand control structures, class libraries, methods and the application of OOP concepts such as inheritance and polymorphism
+3. Adobe Photoshop
+    - Understand key elements of the photoshop interface and how to transform images using a variety of tools, effets, and filters.
+
+More information can be on CDI College and this program can be found [**here**](https://www.cdicollege.ca/study-on-campus/ontario/programs-and-courses/technology/web-development/)
