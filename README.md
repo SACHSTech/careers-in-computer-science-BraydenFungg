@@ -82,3 +82,34 @@ Although getting a degree, diploma, or certificate is not necessary to get into 
     - Understand key elements of the photoshop interface and how to transform images using a variety of tools, effets, and filters.
 
 More information can be on CDI College and this program can be found [**here**](https://www.cdicollege.ca/study-on-campus/ontario/programs-and-courses/technology/web-development/)
+
+---
+
+<br>
+
+## Experimental Learning
+
+As a degrees, diplomas, and certifications are not necessary to start a career in web development, creating a portfolio or a collection of your work is necessary to showcase your work and to future employers what you are capable of. 
+
+<br>
+
+Furthermore, projects and other opportunities that allow you to practice and build up your website creating skills are necessary to gain valuable skills that future jobs might need.
+
+<br>
+
+Self starting projects or even creating websites for friends and relatives is good practice to ensure that you would excel at future jobs.
+
+<br>
+
+Similarly, non technical skills also need to be developed to ensure that you excel at this job. A very important non-technical skill that will help you excel in this field is your artistic creativity.
+
+<br>
+
+Using applications such as photoshop or website-creating apps like wix and squarespace can help you understand what you want your websites to look like without having to put in work into actual code.
+
+<br>
+
+They can challenge you to think outside of the box and try to think of new unique ways to grab a clients attention
+Additionally, online coding tutors and courses are widely available for you to practice and hone your web developing skills. They come at a significantly less cost than a university and college degree but can still help you improve your coding skills and get you more comfortable with the many programming languages.
+
+
