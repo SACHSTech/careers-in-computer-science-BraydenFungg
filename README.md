@@ -112,4 +112,7 @@ Using applications such as photoshop or website-creating apps like wix and squar
 They can challenge you to think outside of the box and try to think of new unique ways to grab a clients attention
 Additionally, online coding tutors and courses are widely available for you to practice and hone your web developing skills. They come at a significantly less cost than a university and college degree but can still help you improve your coding skills and get you more comfortable with the many programming languages.
 
-
+Some online cources can be found below:
+1. [Codecademy](https://www.codecademy.com/)
+2. [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+3. [MIT OpenCourseware](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum )
