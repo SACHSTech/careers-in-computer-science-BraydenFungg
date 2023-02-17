@@ -6,7 +6,7 @@
 ### 2. Standard Education
 ### 3. Experimental Learning
 ### 4. Real Jobs
-<img src="https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg" width="400" height="250">
+<img src="https://camo.githubusercontent.com/e31a80edef0305bb7142bd25352a73fd876f96043df5d43a8e7491bdaeae472a/68747470733a2f2f7374696666656e746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31312f5765622d446576656c6f706d656e742e6a7067" width="400" height="250">
 
 ---
 
