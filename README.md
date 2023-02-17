@@ -6,8 +6,7 @@
 ### 2. Standard Education
 ### 3. Experimental Learning
 ### 4. Real Jobs
-<img src="https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg
-" width="400" height="250">
+<img src="https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg" width="400" height="250">
 
 ---
 
@@ -29,7 +28,7 @@ The simplified main job of a web developer is to create websites. They ensure th
 3. Full-stack Developers
     - These developers incorporate the jobs of both front end and back end developers into their work
 
-<img src="https://github.com/SACHSTech/careers-in-computer-science-BraydenFungg/blob/main/top11.png?raw=true" width="400" height="200">
+<img src="https://raw.githubusercontent.com/SACHSTech/careers-in-computer-science-BraydenFungg/main/top11.png" width="400" height="200">
 
 <br>
 
