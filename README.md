@@ -66,7 +66,12 @@ The good news about being a web developer is that degrees, certifications, and d
 <br>
 
 ## Standard Education
-Although getting a degree, diploma, or certificate is not necessary to get into the web development job field, there are still many universities and colleges that offer programs that will help you hone your coding skills. One of the many schools is CDI College, a canadian college that has many campuses located in Ontario. This web development program takes place on campus, takes around 42 weeks to complete, and successful graduates will recieve a diploma. To apply, you must either have a high school diploma or be a mature student and pass the entrance exam. There are no academic average requirements or any course prerequisites.
+Although getting a degree, diploma, or certificate is not necessary to get into the web development job field, there are still many universities and colleges that offer programs that will help you hone your coding skills. One of the many schools is CDI College, a canadian college that has many campuses located in Ontario.
+
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-BraydenFungg/blob/mainCDI_College_CDI_College_Supports_Small_Businesses_across_Canada.jpg" width="200" height="100">
+
+This web development program takes place on campus, takes around 42 weeks to complete, and successful graduates will recieve a diploma. To apply, you must either have a high school diploma or be a mature student and pass the entrance exam. There are no academic average requirements or any course prerequisites.
 
 <br>
 
@@ -124,8 +129,12 @@ Some online cources can be found below:
 ## Real Jobs
 Finding a job with the desired salary, close proximity, and job description that appeals to you can be hard. However, I have compiled a table of poential jobs depending on your experience.
 | Level of Experience | Responsibilities | Requirements | Salary |
-| ------------- |:-------------:| -----:|-------:|
+| ------------- |:-------------:| ---------:|-------:|
 | Entry level (0-2 years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Prepare mock-ups and storyboards. <br> 3. Develop Website architecture and determine hardware and software requirements <br> 4. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 5. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 6. Consult with clients to develop and document Websites | Requires fluent english and a bachelor’s degree |31.50 hourly for 35 hours a week|
 | Mid level (3-5 years experience) | 1. Consult with clients to document and develop website requirements <br> 2. Design websites that organize information in an efficient manner <br> 3. Manage appearance, layout and flow of the website <br> 4. Research and evaluate a variety of interactive media software products | 1. Knowledge in many coding languages including JavaOS, HTML, javascript, css,.net, and C# <br> 2. Require fluent english and a bachelor's degree | 35.00 hourly for 40 hours per week |
-| Senior level (5+ years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Develop Website architecture and determine hardware and software requirements <br> 3. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 4. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 5. Research and evaluate a variety of interactive media software products <br> 6.Lead and coordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity | 1.Knowledge and experience in many coding languages such as HTML, Javascript, SCC, Adobe Suite <br> 2. Need to be a canadian citizen, a permanent or temporary resident of Canada with a valid Canadian work permit
-|67.30 hourly for 40 hours per week|
+| Senior level (5+ years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Develop Website architecture and determine hardware and software requirements <br> 3. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 4. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 5. Research and evaluate a variety of interactive media software products <br> 6.Lead and coordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity | 1.Knowledge and experience in many coding languages such as HTML, Javascript, SCC, Adobe Suite <br> 2. Need to be a canadian citizen, a permanent or temporary resident of Canada with a valid Canadian work permit |67.30 hourly for 40 hours per week|
+---
+
+<br>
+
+## Work Cited
