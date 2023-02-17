@@ -6,6 +6,9 @@
 ### 2. Standard Education
 ### 3. Experimental Learning
 ### 4. Real Jobs
+<img src="https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg
+" width="400" height="250">
+
 ---
 
 <br>
@@ -25,6 +28,8 @@ The simplified main job of a web developer is to create websites. They ensure th
     - Codes and develops the website’s databases and servers to ensure the website can run smoothly
 3. Full-stack Developers
     - These developers incorporate the jobs of both front end and back end developers into their work
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-BraydenFungg/blob/main/top11.png?raw=true" width="400" height="200">
 
 <br>
 
@@ -69,7 +74,7 @@ The good news about being a web developer is that degrees, certifications, and d
 Although getting a degree, diploma, or certificate is not necessary to get into the web development job field, there are still many universities and colleges that offer programs that will help you hone your coding skills. One of the many schools is CDI College, a canadian college that has many campuses located in Ontario.
 
 
-<img src="https://github.com/SACHSTech/careers-in-computer-science-BraydenFungg/blob/mainCDI_College_CDI_College_Supports_Small_Businesses_across_Canada.jpg" width="200" height="100">
+<img src="https://raw.githubusercontent.com/SACHSTech/careers-in-computer-science-BraydenFungg/main/CDI_College_CDI_College_Supports_Small_Businesses_across_Canada.jpg" width="600" height="300">
 
 This web development program takes place on campus, takes around 42 weeks to complete, and successful graduates will recieve a diploma. To apply, you must either have a high school diploma or be a mature student and pass the entrance exam. There are no academic average requirements or any course prerequisites.
 
@@ -133,8 +138,30 @@ Finding a job with the desired salary, close proximity, and job description that
 | Entry level (0-2 years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Prepare mock-ups and storyboards. <br> 3. Develop Website architecture and determine hardware and software requirements <br> 4. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 5. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 6. Consult with clients to develop and document Websites | Requires fluent english and a bachelor’s degree |31.50 hourly for 35 hours a week|
 | Mid level (3-5 years experience) | 1. Consult with clients to document and develop website requirements <br> 2. Design websites that organize information in an efficient manner <br> 3. Manage appearance, layout and flow of the website <br> 4. Research and evaluate a variety of interactive media software products | 1. Knowledge in many coding languages including JavaOS, HTML, javascript, css,.net, and C# <br> 2. Require fluent english and a bachelor's degree | 35.00 hourly for 40 hours per week |
 | Senior level (5+ years experience) | 1. Consult with clients to develop and document Website requirements <br> 2. Develop Website architecture and determine hardware and software requirements <br> 3. Source, select and organize information for inclusion and design the appearance, layout and flow of the Website <br> 4. Create and optimize content for Website using a variety of graphics, database, animation and other software <br> 5. Research and evaluate a variety of interactive media software products <br> 6.Lead and coordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity | 1.Knowledge and experience in many coding languages such as HTML, Javascript, SCC, Adobe Suite <br> 2. Need to be a canadian citizen, a permanent or temporary resident of Canada with a valid Canadian work permit |67.30 hourly for 40 hours per week|
+
+<br>
+
+The links to the following websites can be found here:
+1. [Entry Level](https://www.jobbank.gc.ca/jobsearch/jobposting/37446807)
+2. [Mid Level](https://www.jobbank.gc.ca/jobsearch/jobposting/37616940)
+3. [Senior Level](https://www.jobbank.gc.ca/jobsearch/jobposting/37595430)
+
+<img src="https://pbs.twimg.com/profile_images/720733410340184064/owlTQ0lN_400x400.jpg
+" width="400" height="400">
 ---
 
 <br>
 
 ## Work Cited
+    “What Does a Web Developer Do?” Western Governors University, MyWGU, 19 Dec. 2022, www.wgu.edu/career-guide/information-technology/web-developer-career.html#close. Accessed 17 Feb. 2023.
+<br>
+
+    “How to Become a Web Developer : Job & Education Requirements.” Code a New Career | ComputerScience.org, 13 Jan. 2022, www.computerscience.org/careers/web-developer/. Accessed 17 Feb. 2023.
+<br>
+
+    “A Quick Guide to Web Development Qualifications in 2023.” CareerFoundry, 6 Jan. 2023, careerfoundry.com/en/blog/web-development/what-qualifications-do-you-need-to-become-a-web-developer/. Accessed 17 Feb. 2023.
+‌<br>
+
+    “CDI College.” Cdicollege.ca, CDI College, 2020, www.cdicollege.ca/study-on-campus/ontario/programs-and-courses/technology/web-development/. Accessed 17 Feb. 2023.
+
+‌
