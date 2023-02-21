@@ -145,8 +145,7 @@ The links to the following websites can be found here:
 2. [Mid Level](https://www.jobbank.gc.ca/jobsearch/jobposting/37616940)
 3. [Senior Level](https://www.jobbank.gc.ca/jobsearch/jobposting/37595430)
 
-<img src="https://pbs.twimg.com/profile_images/720733410340184064/owlTQ0lN_400x400.jpg
-" width="400" height="400">
+<img src="https://raw.githubusercontent.com/SACHSTech/careers-in-computer-science-BraydenFungg/main/download.png" width="600" height="300">
 ---
 
 <br>
